@@ -17,7 +17,7 @@ RESTful API que utiliza a API de geolocalização do Google para calcular a dist
 <p align="center" style="display: flex;">
 	<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
 	<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
-	<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="80" height="28" role="img" aria-label="ESLINT"><title>ESLINT</title><g shape-rendering="crispEdges"><rect width="80" height="28" fill="#3a33d1"/></g><g fill="#fff" text-anchor="middle" font-family="Verdana,Geneva,DejaVu Sans,sans-serif" text-rendering="geometricPrecision" font-size="100"><image x="9" y="7" width="14" height="14" xlink:href="https://developers.google.com/maps/images/maps-icon.svg"/><text transform="scale(.1)" x="480.5" y="175" textLength="350" fill="#fff" font-weight="bold">MAPS</text></g></svg>
+	<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="80" height="28" role="img" aria-label="ESLINT"><g shape-rendering="crispEdges"><rect width="80" height="28" fill="#3a33d1"/></g><g fill="#fff" text-anchor="middle" font-family="Verdana,Geneva,DejaVu Sans,sans-serif" text-rendering="geometricPrecision" font-size="100"><image x="9" y="7" width="14" height="14" xlink:href="https://developers.google.com/maps/images/maps-icon.svg"/><text transform="scale(.1)" x="480.5" y="175" textLength="350" fill="#fff" font-weight="bold">MAPS</text></g></svg>
 
 	
 
